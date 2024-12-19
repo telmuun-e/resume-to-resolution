@@ -1,0 +1,8 @@
+fastapi
+openai
+uvicorn
+python-multipart
+pypdf
+docx2txt
+markdown
+pdfkit
